@@ -4,6 +4,11 @@
 
 Analysing my Bank statements to understand my spending habits.
 With the economic situations in the country, I decided to have a dive into some of my bank accounts to understand the financial activities within these accounts for the period of January to July, 2024. Here is a breakdown of the steps I took to analyse these statements.
+
+![Bank Statement Dashboard](pg1.png)
+<br>
+![Monthly Analysis](pg2.png)
+<br>
 <ol>
   <li>Data Collection: I downloaded my FirstBank statement and requested for my OPay statement.</li>
   <li>Data Wrangling: The data was converted using <code>Excel</code> and cleaning was done using <code>SQL Server</code>.</li>
