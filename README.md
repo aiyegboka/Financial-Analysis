@@ -5,7 +5,9 @@ With the economic situations in the country, I decided to have a dive into some 
 2.	Data Wrangling: The data was converted using Excel and cleaning was done using SQL Server.
 
   o	Cleaning, correction of datatypes and transformation was carried out using SQL Server.
+  
   o	A View was created and directly queried in Power BI.
+  
 4.	Visualisation was performed on Power BI.
 
 Here are the insights generated from the analysis.
@@ -16,27 +18,41 @@ Here are the insights generated from the analysis.
 5.	Total Transactions by Month: The bar chart shows fluctuations in transaction volumes across different months, indicating periods of high and low financial activity.
 
   o	Highest Transaction Category: Business - ₦4,646.8K
+  
   o	Lowest Transaction Category: Card Maintenance - ₦0.1K
+  
 7.	Top 4 Categories with Positive with Positive Influence:
   
   o	Wealth Management: Net Value: ₦146,760.00
+  
   o	Investments: Net Value: ₦16,560.00
+  
   o	OWealth Interest: Net Value: ₦88,535.54
+  
   o	Interest: Net Value: ₦158.64
+  
 8.	Least Categories with Negative Influence:
   
   o	Utilities: Net Value: -₦100.00
+  
   o	Travel: Net Value: -₦476.00
+  
   o	VAT: Net Value: -₦1,731.01
+  
   o	Transfer Levy: Net Value: -₦3,265.86
+  
   o	Data: ₦16,780
+  
   o	Restaurant: ₦18,150
+  
 9.	Positive Categories: Wealth Management and Investments show positive net values, indicating profitable activities.
 10.	Negative Categories: Utilities, Travel, VAT, and Transfer Levy have negative net values, suggesting areas of high expenditure without corresponding income.
 
 ## Recommendations
 1.	Budgeting: 
+
   o	Create a detailed monthly budget that allocates funds to essential categories (e.g., groceries, rent) and discretionary spending.
   o	Set financial goals (e.g., emergency fund, debt repayment) and allocate funds accordingly.
-2.	Investment: Continue monitoring investments and explore diversification opportunities.
-3.	Utilities: Consider optimizing utility expenses (e.g., electricity, water) to reduce costs.
+  
+3.	Investment: Continue monitoring investments and explore diversification opportunities.
+4.	Utilities: Consider optimizing utility expenses (e.g., electricity, water) to reduce costs.
