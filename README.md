@@ -1,14 +1,19 @@
 # Financial-Analysis
+
+![green-divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
+
 Analysing my Bank statements to understand my spending habits.
 With the economic situations in the country, I decided to have a dive into some of my bank accounts to understand the financial activities within these accounts for the period of January to July, 2024. Here is a breakdown of the steps I took to analyse these statements.
-1.	Data Collection: I downloaded my FirstBank statement and requested for my OPay statement.
-2.	Data Wrangling: The data was converted using Excel and cleaning was done using SQL Server.
-
-  o	Cleaning, correction of datatypes and transformation was carried out using SQL Server.
-  
-  o	A View was created and directly queried in Power BI.
-  
+<ol>
+  1.	Data Collection: I downloaded my FirstBank statement and requested for my OPay statement.
+  2.	Data Wrangling: The data was converted using <code>Excel</code> and cleaning was done using <code>SQL Server</code>.
+  3.  Cleaning, correction of datatypes and transformation was carried out using SQL Server.
+  <ol>
+    <li>A View was created and directly queried in Power BI.</li>
+  </ol>
 4.	Visualisation was performed on Power BI.
+</ol>
+
 
 Here are the insights generated from the analysis.
 1.	Key Figures: There was a total of 430 transactions, the total amount is ₦7.97 million, total credit is ₦3.68 million, total debit is ₦4.31 million and the net value is - ₦630,000.
